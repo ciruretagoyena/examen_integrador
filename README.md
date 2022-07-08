@@ -3,4 +3,4 @@ Iruretagoyena, Carlos
 Hernandez, German
 Lopez, Facundo
 Hellin, Yago
-/* GRUPO */
+GRUPO 6
